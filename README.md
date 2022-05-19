@@ -6,6 +6,10 @@ the status repo
 | pffy.cloud.tortellini | chinese frequency tts | Chrome extension | pending | pending
 | pffy.cloud.mostaccioli | ?? | Chrome extension | pending | pending
 | pffy.cloud.radiatori | [yoghurt][gh_yg] | [Chrome extension][cws_yg] | published | yes |
+| pffy.cloud.tagliatelle | ?? | Chrome extension | published | pending |
+| pffy.cloud.ravioli | ?? | Chrome extension | published | pending |
+
+
 
 ---
 [gh_yg]: https://github.com/pffy/chrome-ext-yoghurt
