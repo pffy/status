@@ -6,8 +6,8 @@ the status repo
 | pffy.cloud.tortellini | chinese frequency tts | Chrome extension | inactive | pending |
 | pffy.cloud.mostaccioli | ?? | Chrome extension | pending | pending |
 | pffy.cloud.radiatori | [yoghurt][gh_yg] | [Chrome extension][cws_yg] | active | supported |
-| pffy.cloud.tagliatelle | nimbus | Chrome extension | active | text hanzitopinyin test rig |
-| pffy.cloud.ravioli | arcus | Chrome extension | active | html hanzitopinyin test rig |
+| pffy.cloud.tagliatelle | arcus | Chrome extension | active | html hanzitopinyin test rig |
+| pffy.cloud.ravioli | nimbus | Chrome extension | active | text hanzitopinyin test rig |
 
 
 
