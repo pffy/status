@@ -1,13 +1,13 @@
 # status
 the status repo
 
-| namespace | product-name | form-factor | status | supported |
+| namespace | product-name | form-factor | status | notes |
 | :--- | :--- | :--- | :--- | :--- |
-| pffy.cloud.tortellini | chinese frequency tts | Chrome extension | pending | pending
-| pffy.cloud.mostaccioli | ?? | Chrome extension | pending | pending
-| pffy.cloud.radiatori | [yoghurt][gh_yg] | [Chrome extension][cws_yg] | published | yes |
-| pffy.cloud.tagliatelle | ?? | Chrome extension | pending | pending |
-| pffy.cloud.ravioli | ?? | Chrome extension | pending | pending |
+| pffy.cloud.tortellini | chinese frequency tts | Chrome extension | inactive | pending |
+| pffy.cloud.mostaccioli | ?? | Chrome extension | pending | pending |
+| pffy.cloud.radiatori | [yoghurt][gh_yg] | [Chrome extension][cws_yg] | active | supported |
+| pffy.cloud.tagliatelle | nimbus | Chrome extension | active | text hanzitopinyin test rig |
+| pffy.cloud.ravioli | arcus | Chrome extension | active | html hanzitopinyin test rig |
 
 
 
